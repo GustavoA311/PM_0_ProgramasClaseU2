@@ -1,0 +1,5 @@
+﻿  Assembling P31_loopPares.asm...
+P31_loopPares.asm(37): error A2006: undefined symbol : ex
+P31_loopPares.asm(45): error A2006: undefined symbol : exc
+P31_loopPares.asm(51): error A2006: undefined symbol : exc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml.exe /c /nologo /Zi /Fo"Debug\P31_loopPares.obj" /Fl"PM_0_ProgramasClaseU2.lst" /I "C:\Irvine" /W3 /errorReport:prompt  /TaP31_loopPares.asm" salió con el código 1.
